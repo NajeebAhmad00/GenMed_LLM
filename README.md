@@ -1,9 +1,3 @@
-
----
-
-### 2. GenMed_LLM README.md
-
-```markdown
 <div align="center">
   <h1>GenMed_LLM</h1>
   <h3>Fine-tuned GPT-2 for Healthcare — Physician-Quality Medical Guidance</h3>
